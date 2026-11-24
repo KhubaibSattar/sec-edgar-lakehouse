@@ -1,0 +1,8 @@
+concept,AAPL,MSFT,WMT,JPM,NVDA
+CoSelectedMeasureAmt,0,1,1,1,1
+NonPeoNeoAvgCompActuallyPaidAmt,0,1,1,1,1
+NonPeoNeoAvgTotalCompAmt,0,1,1,1,1
+PeerGroupTotalShareholderRtnAmt,0,1,1,1,1
+PeoActuallyPaidCompAmt,0,1,1,1,1
+PeoTotalCompAmt,0,1,1,1,1
+TotalShareholderRtnAmt,0,1,1,1,1
